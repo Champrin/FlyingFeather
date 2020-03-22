@@ -1,0 +1,9 @@
+name: FlyingFeather
+main: xyz.champrin.flyingfeather.FlyingFeather
+version: "1.0.0"
+api: ["1.0.8"]
+load: POSTWORLD
+
+author: Champrin
+description: 娱乐插件-飞行羽毛
+
